@@ -8,13 +8,13 @@ website:
     right:
       - about.qmd
       - icon: github
-        href: https://github.com/toobarahimnia
+        href: https://github.com/tinarahimnia
       - icon: linkedin
-        href: https://linkedin.com/in/tooba-rahimnia
+        href: https://linkedin.com/in/tina-rahimnia
       - icon: envelope
         href: mailto:trahimnia@gmail.com
       - icon: youtube
-        href: https://www.youtube.com/@toobarahimnia9171
+        href: https://www.youtube.com/@CognitiveDiscoveries  
       
 format:
   html:
