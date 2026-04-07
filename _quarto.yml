@@ -10,11 +10,11 @@ website:
       - icon: github
         href: https://github.com/tinarahimnia
       - icon: linkedin
-        href: https://linkedin.com/in/tina-rahimnia
+        href: https://linkedin.com/in/tina-rahimnia 
       - icon: envelope
         href: mailto:trahimnia@gmail.com
       - icon: youtube
-        href: https://www.youtube.com/@CognitiveDiscoveries  
+        href: https://www.youtube.com/@CognitiveDiscoveries   
       
 format:
   html:

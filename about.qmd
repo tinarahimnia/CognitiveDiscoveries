@@ -6,7 +6,7 @@ about:
   links:
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/tina-rahimnia
+      href: https://linkedin.com/in/tina-rahimnia 
     - icon: github
       text: Github
       href: https://github.com/tinarahimnia
